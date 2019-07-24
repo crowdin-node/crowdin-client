@@ -1,12 +1,13 @@
 # crowdin-client
 
-A Node.js client for the Crowdin v2 API
+A Node.js client for the [Crowdin v2 API](https://support.crowdin.com/enterprise/api/), 
+generated from [Crowdin's OpenAPI schema](https://support.crowdin.com/assets/api/enterprise.yml)
 
 🚧 This is a work in progress. Not ready for general use! 🚧
 
 ## Installation
 
-This project is experimental and hasn't yet been published to npm.
+This project is experimental and has not yet been published to npm.
 
 You can install it directly from its GitHub repo:
 
