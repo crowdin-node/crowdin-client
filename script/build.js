@@ -11,7 +11,7 @@ console.log(`
 operations.forEach(operation => {
   const heading = `${operation.operationId}${operation.signature}`
   const slug = slugger.slug(heading)
-  console.log(`- [${heading}](${slug})`)
+  console.log(`- [${heading}](#${slug})`)
 })
 
 operations.forEach(operation => {
