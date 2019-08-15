@@ -1,3 +1,7 @@
+# THIS PROJECT IS DEPRECATED! -- see https://travis-ci.org/crowdin-node/crowdin-node
+
+---
+
 # crowdin-client
 
 A Node.js client for the [Crowdin v2 API](https://support.crowdin.com/enterprise/api/), 
